@@ -1,3 +1,8 @@
+# Overview
+This is a straightforward To-Do list application developed using React.js and TypeScript.
+
+<img width="1206" alt="Screenshot 2023-04-08 at 12 12 08" src="https://user-images.githubusercontent.com/41677855/230738887-36825e3f-49be-4746-b9ab-de965a9b36e9.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
